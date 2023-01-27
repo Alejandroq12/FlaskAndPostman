@@ -1,4 +1,4 @@
-# Flask Recap
+# FlaskAndPostman
 
 A simple flask server to demonstrate basic flask.
 
